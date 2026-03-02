@@ -1,4 +1,5 @@
-MediCare General Hospital Patient Portal
+**General Hospital Patient Portal**
+
 A modern web portal for patients to manage appointments, access hospital services, and interact via a built-in chatbot. Designed for efficiency, usability, and security.
 
 🌟 **Features**
@@ -46,7 +47,7 @@ Zone-aware datetime handling (Asia/Kolkata timezone).
 
 🛠️ **Tech Stack**
 Layer	Technology
-Frontend	React.js, HTML5, CSS3
+Frontend	React.js, HTML5, CSS3,Bootstrap5
 Backend	Python, FastAPI, SQLAlchemy
 Database	PostgreSQL
 Auth	OAuth2, Mobile OTP
